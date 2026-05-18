@@ -15,9 +15,7 @@
 **Signal to autonomous action in under 60 seconds.**
 
 ### 🌐 [LIVE DEMO → benny-tang.github.io/aegis-pro-v1](https://benny-tang.github.io/aegis-pro-v1)
-       [COLAB DEMO → https://benny-tang.github.io/aegis-pro-v1]
-       [YOUTUBE DEMO → https://www.youtube.com/watch?v=jRYdtXpcd6A] 
-
+            
 > No API key needed — click Launch Pipeline and watch all 8 agents fire live.
 
 Built for [LabLab.ai TechEx San Jose 2026](https://lablab.ai/)
@@ -50,7 +48,8 @@ Built for [LabLab.ai TechEx San Jose 2026](https://lablab.ai/)
 
 ## 🌐 Live Demo
 
-**Primary URL:** https://benny-tang.github.io/aegis-pro-v1
+**Primary URL:** https://benny-tang.github.io/aegis-pro-v1 
+**YouTube URL:** https://www.youtube.com/watch?v=jRYdtXpcd6A
 
 Open in any browser — no installation, no API key required.
 
