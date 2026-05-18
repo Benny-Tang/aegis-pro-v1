@@ -382,7 +382,7 @@ aegis-pro-v1/
 | ✅ Veea Lobster Trap integration | May 2026 | DPI security policy · audit log · adversarial tests |
 | 🔄 Veea TerraFabric pilot | Q3 2026 | Edge deployment reference customer |
 | 🔜 First beta client | Q3–Q4 2026 | $50K ARR · MVP feature freeze |
-| 🔜 Pre-seed round | Q1 2027 | $250K · team + sales motion |
+| 🔜 Pre-seed round | Q1 2027 | $500K · team + sales motion |
 | 🔜 10 enterprise clients | Q4 2027 | $1M ARR · Series A ready |
 
 ---
